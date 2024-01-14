@@ -5,8 +5,8 @@ PnetPhlix, a movie recommender based on Netflix, loads searchable databases of u
 ## Building and running the code
 
 Run the following commands from the command line:
-- g++ *.cpp -o pnetphlix
-- ./pnetphlix
+- `g++ *.cpp -o pnetphlix`
+- `./pnetphlix`
 
 ## Acknowledgements
 

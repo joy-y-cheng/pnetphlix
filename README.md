@@ -2,7 +2,7 @@
 
 PnetPhlix, a movie recommender based on Netflix, loads searchable databases of users and movies from text files and recommends movies to users based on their movie-watching histories. For a given user, PnetPhlix determines the attributes of the user's previously watched movies and finds new movies with those attributes, ranking the recommendations in order of number of attributes shared with previously watched movies.  
 
-## Building and running the code
+## Building and Running
 
 Run the following commands from the command line:
 - `g++ *.cpp -o pnetphlix`
